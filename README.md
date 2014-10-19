@@ -4,11 +4,11 @@ Python-Puzzles
 Fun misc puzzles implemented in Python.
 
 Included:
-    * Binary search
-    * Fibonacci
-    * Hash Function (FNV hash)
-    * Palindrome
-    * Pascal's Triangle
++ Binary search
++ Fibonacci
++ Hash Function (FNV hash)
++ Palindrome
++ Pascal's Triangle
 
 # License
 
