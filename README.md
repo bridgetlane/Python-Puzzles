@@ -1,13 +1,14 @@
 Python-Puzzles
 ==============
 
-Fun misc puzzles implemented in Python:
+Fun misc puzzles implemented in Python.
 
-    +Binary search
-    +Fibonacci
-    +Hash Function (FNV hash)
-    +Palindrome
-    +Pascal's Triangle
+Included:
+    * Binary search
+    * Fibonacci
+    * Hash Function (FNV hash)
+    * Palindrome
+    * Pascal's Triangle
 
 # License
 
