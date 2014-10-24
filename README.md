@@ -5,10 +5,10 @@ Fun misc puzzles implemented in Python.
 
 Included:
 + Binary search
-+ Fibonacci
++ Fibonacci (with memoization)
 + Hash Function (FNV hash)
 + Palindrome
-+ Pascal's Triangle
++ Pascal's Triangle (with memoization)
 
 # License
 
